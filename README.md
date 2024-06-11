@@ -63,6 +63,8 @@ The React app will be accessible at http://localhost:3000.
 - Frontend: Deployed on Netlify.
 
 ## Screenshots
-![Alt text](screenshots/blood.png "1")
-![Alt text](screenshots/blood1.png "2")
-![Alt text](screenshots/blood2.png "3")
+![WhatsApp Image 2024-06-08 at 10 30 15 AM (1)](https://github.com/Abhimanyu0p/BloodBank_App/assets/134924942/8bb60c29-0108-4d35-8166-d892d56a1fda)
+![WhatsApp Image 2024-06-08 at 10 30 14 AM](https://github.com/Abhimanyu0p/BloodBank_App/assets/134924942/2752268e-83d9-484e-ac37-5a5f06a98dd4)
+![WhatsApp Image 2024-06-08 at 10 30 16 AM](https://github.com/Abhimanyu0p/BloodBank_App/assets/134924942/da0f15a8-32fd-4007-a6b3-5cabd4cdd155)
+![WhatsApp Image 2024-06-08 at 10 30 15 AM](https://github.com/Abhimanyu0p/BloodBank_App/assets/134924942/a3162d4c-a85c-4fe9-ab2c-b99149707ca6)
+
